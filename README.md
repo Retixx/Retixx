@@ -1,9 +1,9 @@
-## hey, im maxim :blush: 
+# hey, im maxim :blush: 
 
 <a href="https://tenor.com/view/spongebob-patrick-star-noted-notes-gif-26231953">
   <img
     align="right"
-    width="260"
+    width="250"
     src="./patrick-circle.gif"
     alt="Patrick taking notes"
   />
