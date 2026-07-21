@@ -21,9 +21,9 @@ previously:
 
 - research internship & published conference papers @ [UHN](https://www.uhn.ca/) on automated leukemia prognosis w/ CNNs
 - founded [TOPSOJ](https://topsoj.com/); online competitive math community w/ 500K+ impressions, 1400+ registered users
-- built [BananaMOV](https://github.com/Retixx/jamhacks2026), a context-based movie music generator, won best use of ElevenLabs @ [JAMHacks10](https://www.jamhacks.ca/)
+- built [BananaMOV](https://github.com/Retixx/jamhacks2026), a context-based movie music generator; won best use of ElevenLabs @ [JAMHacks10](https://www.jamhacks.ca/)
 
-always love to connect, feel free to reach out! :smile:
+always love to connect: feel free to reach out! :smile:
 
 [linkedin](https://www.linkedin.com/in/maxim-mohareb/?skipRedirect=true) · [email](mailto:maximmohareb@gmail.com) · [x](https://x.com/maxmohareb)
 <br clear="right"/>
