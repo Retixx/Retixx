@@ -1,19 +1,12 @@
 ## hey, im maxim :)
 
-<img
-  align="right"
-  width="170"
-  src="https://media1.tenor.com/m/BmynJp5cLKkAAAAd/curious-george-bubble.gif"
-  alt="Curious George"
-/>
-
 about me:
 
 - incoming 1st-year software engineering student @ [UWaterloo](https://uwaterloo.ca/)
 - highly ambitious and always competing
 - interested in machine learning, interpretability, and AI agents
 - currently building [IndieVST](https://github.com/Retixx/IndieVST)
-- i like hackathons, meeting new people, music, and basketball
+- i like hackathons, meeting new people, music, and basketball!
 
 previously: 
 
