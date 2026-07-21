@@ -1,4 +1,4 @@
-# hey, im maxim :blush: 
+# hey, im Maxim :blush: 
 
 <a href="https://tenor.com/view/spongebob-patrick-star-noted-notes-gif-26231953">
   <img
