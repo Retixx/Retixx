@@ -13,8 +13,8 @@ about me:
 
 - incoming 1st-year software engineering student @ [UWaterloo](https://uwaterloo.ca/)
 - highly ambitious and always competing :muscle:
-- interested in machine learning, interpretability, and AI agents
-- currently building [IndieVST](https://github.com/Retixx/IndieVST)
+- interested in machine learning, SLMs, and AI agents
+- currently building [IndieVST](https://github.com/Retixx/IndieVST) & [Filtered Research](https://github.com/Retixx/FilteredResearch)
 - i like hackathons, meeting new people, music, and basketball!
 
 previously: 
