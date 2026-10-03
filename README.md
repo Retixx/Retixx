@@ -20,7 +20,7 @@ about me:
 previously: 
 
 - research internship & published conference papers @ [UHN](https://www.uhn.ca/) on automated leukemia prognosis w/ CNNs
-- founded [TOPSOJ](https://topsoj.com/); online competitive math community w/ 500K+ impressions, 1400+ registered users
+- founded [TOPSOJ](https://topsoj.com/); online competitive math community w/ 500K+ impressions, 3000+ registered users
 - built [Sherlock](https://github.com/Retixx/Sherlock--HackMIT), an AI-agent orchestration for financial auditing; won Maximor Track @ [HackMIT](https://hackmit.org/)
 - built [BananaMOV](https://github.com/Retixx/jamhacks2026), a context-based movie music generator; won best use of ElevenLabs @ [JAMHacks10](https://www.jamhacks.ca/)
 
