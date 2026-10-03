@@ -26,5 +26,5 @@ previously:
 
 always love to connect: feel free to reach out! :smile:
 
-[linkedin](https://www.linkedin.com/in/maxim-mohareb/?skipRedirect=true) · [email](mailto:maximmohareb@gmail.com) · [x](https://x.com/maxmohareb)
+[linkedin](https://www.linkedin.com/in/maxim-mohareb/?skipRedirect=true) · [email](mailto:mmohareb@uwaterloo.ca) · [x](https://x.com/maxmohareb)
 <br clear="right"/>
